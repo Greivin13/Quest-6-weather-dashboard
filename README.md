@@ -4,7 +4,7 @@
   ## Description
 The Weather Dashboard is a web application designed to help travelers plan their trips by providing them with the weather outlook for multiple cities. The application fetches weather data from the OpenWeather API, displaying current and future weather conditions for the selected cities.
   ## Deployed Application URL
-
+https://greivin13.github.io/Quest-6-weather-dashboard/
   ## Github Repositorie
 https://github.com/Greivin13/Quest-6-weather-dashboard
   ## Table of Contents

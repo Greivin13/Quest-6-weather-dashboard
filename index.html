@@ -15,7 +15,7 @@
       <button id="search-button">Search</button>
     </div>
   
-    <div id="current-weather">
+    <div id="current-weather" class="card-body bg-warning">
       <h2>Current Weather</h2>
       <p id="city-name"></p>
       <p id="date"></p>
@@ -23,6 +23,7 @@
       <p id="temperature"></p>
       <p id="humidity"></p>
       <p id="wind-speed"></p>
+      <p id="uvIndex"></p>
     </div>
   
     <div id="forecast">
@@ -37,9 +38,12 @@
       <ul id="history-list">
         
       </ul>
+      <div id="clear-storage"></div>
     </div>
-  
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
   </body>
   </html>
   
